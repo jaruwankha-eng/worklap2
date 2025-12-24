@@ -1,0 +1,6 @@
+﻿'worklap2.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'worklap2.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\kkoo5\source\repos\worklap2\worklap2\bin\Debug\worklap2.exe'. Symbols loaded.
+'worklap2.exe' (CLR v4.0.30319: worklap2.exe): Loaded 'C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\Remote Debugger\x86\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'worklap2.exe' (CLR v4.0.30319: worklap2.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'worklap2.exe' (CLR v4.0.30319: worklap2.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The program '[72824] worklap2.exe' has exited with code 0 (0x0).
